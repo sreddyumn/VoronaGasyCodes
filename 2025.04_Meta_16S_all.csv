@@ -1,0 +1,111 @@
+,GB_Acession,Original,Access..No,Museum,Added.to.Database,Website,Family,Genus,Species,Endemic,Locality,Latitude,Longitude,SpecName
+1,NA,MJR1247,MJR1247,UADBA,8/12/24,,Accipitiridae,Accipiter,francesiae,Y,Toamasina,-15.73,49.96,Accipiter_francesiae_UADBAMJR1247_16S
+2,NA,353034,353034,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627851,Sturnidae,Acridotheres,tristis,N,Toliara,-25,47,Acridotheres_tristis_FMNH353034_16S
+3,NA,FMNH380001,380001,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1654843,Acrocephalidae,Acrocephalus,newtoni,Y,Fianarantsoa,-22.19,46.97,Acrocephalus_newtoni_FMNH380001_16S
+4,NA,352794,352794,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627611,Psittacidae,Agapornis,canus,Y,Toliara,-24,46.52,Agapornis_canus_FMNH352794_16S
+5,NA,360027,360027,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1634845,Anatidae,Anas,melleri,Y,Toamasina,-18.75,47.52,Anas_melleri_FMNH360027_16S
+6,NA,434436,434436,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709161,Apodidae,Apus,barbatus,,Toliara,-24.05,43.75,Apus_barbatus_FMNH434436_16S
+7,NA,FMNH384778,384778,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659630,Vangidae,Artamella,viridis,Y,Toliara,-24.58,46.73,Artamella_viridis_FMNH384778_16S
+9,NA,TPG1570,393202,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668051,Brachypteraciidae,Atelornis,pittoides,Y,Fianarantsoa,-22.15,47.02,Atelornis_pittoides_FMNH393202_16S
+10,NA,FMNH384685,384685,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659537,Strigidae,Athene,superciliaris,Y,Toliara,-22.68,44.82,Athene_superciliaris_FMNH384685_16S
+11,NA,360032,360032,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1634850,Anatidae,Aythya,innotata,Y,Toamasina,-17.5,48.5,Aythya_innotata_FMNH360032_16S
+12,NA,FMNH393255,393255,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668104,Bernieridae,Bernieria,madagascariensis,Y,Antsiranana,-14.54,49.43,Bernieria_madagascariensis_FMNH393255_16S
+14,NA,SMG7403,384758,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659610,Brachypteraciidae,Geobiastes,squamiger,Y,Toliara,-24.62,46.75,Geobiastes_squamiger_FMNH384758_16S
+15,NA,FMNH381475,381475,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1656321,Locustellidae,Bradypterus,brunneus,Y,d'Antsiranana,-14.75,49.43,Bradypterus_brunneus_FMNH381475_16S
+16,NA,434743,434743,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709468,Ardeidae,Butorides,striata,,Tamatave,41.85,-87.62,Butorides_striata_FMNH434743_16S
+17,NA,FMNH356654,356654,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631472,Vangidae,Calicalicus,madagascariensis,Y,Toliara,-23,43.62,Calicalicus_madagascariensis_FMNH356654_16S
+18,NA,MJR1206,MJR1206,UADBA,8/12/24,,Caprimulgidae,Caprimulgus,enarratus,Y,Antsiranana,-15.56,50.28,Caprimulgus_enarratus_UADBAMJR1206_16S
+20,NA,427335,427335,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1702061,Campephagidae,Ceblepyris,cinerea,N - MAYOTTE,Fianarantsoa,-22.2,46.83,Ceblepyris_cinerea_FMNH427335_16S
+21,NA,FMNH436424,436424,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711149,Cuculidae,Centropus,toulou,N - SEYCHELLES,Toliara,-22.77,43.52,Centropus_toulou_FMNH436424_16S
+22,NA,DW4911,393444,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668293,Nectariniidae,Cinnyris,notata,N - COMOROS,Mahajanga,-14.75,49.42,Cinnyris_notata_FMNH393444_16S
+23,NA,DW4790,393425,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668274,Nectariniidae,Cinnyris,souimanga,N - WEST INDIAN ISLANDS,Antsiranana,-14.54,49.44,Cinnyris_souimanga_FMNH393425_16S
+24,NA,352929,352929,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627746,Cisticolidae,Cisticola,cherina,N - WEST INDIAN ISLANDS,Toliara,-24,46.52,Cisticola_cherina_FMNH352929_16S
+25,NA,360050,360050,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1634868,Muscicapidae,Copsychus,albospecularis,Y,Toliara,-22,44.72,Copsychus_albospecularis_FMNH360050_16S
+26,NA,384671,384671,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659523,Psittacidae,Coracopsis,vasa,Y,Toliara,-22.45,44.83,Coracopsis_vasa_FMNH384671_16S
+27,NA,MJR1223,MJR1223,UADBA,8/12/24,,Alcedinidae,Corythornis,madagascariensis,Y,Antsiranana,15.56,50.28,Corythornis_madagascariensis_UADBAMJR1223_16S
+28,NA,MJR1277,MJR1277,UADBA,8/12/24,,Alcedinidae,Corythornis,vintsioides,N - MAYOTTE & COMOROS,,-18.25,47.57,Corythornis_vintsioides_UADBAMJR1277_16S
+29,NA,FMNH472533,472533,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1814703,Cuculidae,Coua,caerulea,Y,Farafangana,-23.08,47.75,Coua_caerulea_FMNH472533_16S
+31,NA,FMNH472479,472479,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1814649,Cuculidae,Coua,cristata,Y,Mahajanga,-16.14,46.96,Coua_cristata_FMNH472479_16S
+32,NA,MJR1143,MJR1143,UADBA,8/12/24,,Cuculidae,Coua,cursor,Y,Toliara,43.74,24.03,Coua_cursor_UADBAMJR1143_16S
+33,NA,FMNH393209,393209,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668058,Cuculidae,Coua,gigas,Y,Mahajanga,-18.26,45.42,Coua_gigas_FMNH393209_16S
+34,NA,FMNH434432,434432,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709157,Cuculidae,Coua,olivaceiceps,Y,Toliara,-24.05,43.75,Coua_olivaceiceps_FMNH434432_16S
+35,NA,MJR0893,MJR0893,UADBA,8/12/24,,Cuculidae,Coua,reynaudii,Y,,-19.04,48.35,Coua_reynaudii_UADBAMJR0893_16S
+36,NA,MJR1108,MJR1108,UADBA,8/12/24,,Cuculidae,Coua,ruficeps,Y,Toliara,-24.03,43.74,Coua_ruficeps_UADBAMJR1108_16S
+38,NA,FMNH435043,435043,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709768,Bernieridae,Crossleyia,xanthophrys,Y,Fianarantsoa,-22.16,47.04,Crossleyia_xanthophrys_FMNH435043_16S
+39,NA,FMNH396198,396198,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1671047,Bernieridae,Cryptosylvicola,randrianasoloi,Y,Antsiranana,-14.02,48.42,Cryptosylvicola_randrianasoloi_FMNH396198_16S
+40,NA,436423,436423,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711148,Cuculidae,Cuculus,poliocephalus,,Toliara,-22.8,43.43,Cuculus_poliocephalus_FMNH436423_16S
+41,NA,MJR0510,MJR0510,UADBA,8/12/24,,Vangidae,Cyanolanius,madagascariensis,Y,,-19.61,44.74,Cyanolanius_madagascariensis_UADBAMJR0510_16S
+42,NA,MJR1262,MJR1262,UADBA,8/12/24,,Dicruridae,Dicrurus,forficatus,N - COMOROS,,-18.25,47.57,Dicrurus_forficatus_UADBAMJR1262_16S
+43,NA,SMG19464,SMG19464,UADBA,8/12/24,,Rallidae,Dryolimnas,cuvieri,N - WEST INDIAN ISLANDS,,-12.82,49.82,Dryolimnas_cuvieri_UADBASMG19464_16S
+44,NA,396138,396138,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1670987,Alaudidae,Eremopterix,hova,Y,Fianarantsoa,NA,NA,Eremopterix_hova_FMNH396138_16S
+45,NA,FMNH356691,356691,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631509,Vangidae,Euryceros,prevostii,Y,Toamasina,-15,49.93,Euryceros_prevostii_FMNH356691_16S
+46,NA,SMG7929,384689,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659541,Coraciidae,Eurystomus,glaucurus,,Toliara,-22.45,44.83,Eurystomus_glaucurus_FMNH384689_16S
+47,NA,FMNH356670,356670,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631488,Vangidae,Falculea,palliata,Y,Toliara,-23,43.62,Falculea_palliata_FMNH356670_16S
+48,NA,MJR1012,MJR1012,UADBA,8/12/24,,Ploceidae,Foudia,madagascariensis,Y,,-20.7,47.15,Foudia_madagascariensis_UADBAMJR1012_16S
+49,NA,MJR0278,MJR0278,UADBA,8/12/24,,Ploceidae,Foudia,omissa,Y,,-16.28,48.8,Foudia_omissa_UADBAMJR0278_16S
+50,NA,MJR0590,MJR0590,UADBA,8/12/24,,Bernieridae,Hartertula,flavoviridis,Y,,-23.74,47.02,Hartertula_flavoviridis_UADBAMJR0590_16S
+51,NA,384699,384699,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659551,Sturnidae,Hartlaubius,auratus,Y,Toliara,-22.68,44.82,Hartlaubius_auratus_FMNH384699_16S
+52,NA,FMNH363833,363833,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1638648,Vangidae,Hypositta,corallirostris,Y,Fianarantsoa,-22,47.02,Hypositta_corallirostris_FMNH363833_16S
+53,NA,MJR1261,MJR1261,UADBA,8/12/24,,Pycnonotidae,Hypsipetes,madagascariensis,N - WEST INDIAN ISLANDS,Toamasina,15.73,49.96,Hypsipetes_madagascariensis_UADBAMJR1261_16S
+54,NA,352980,352980,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627797,Estrildidae,Lepidopygia,nana,Y,Toliara,-25,47,Lepidopygia_nana_FMNH352980_16S
+55,NA,FMNH352880,352880,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627697,Vangidae,Leptopterus,chabert,Y,Toliara,-24,46.52,Leptopterus_chabert_FMNH352880_16S
+56,NA,352778,352778,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627595,Scolopacidae,Limosa,lapponica,,Toliara,NA,NA,Limosa_lapponica_FMNH352778_16S
+57,NA,345600,345600,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1598920,Threskiornithidae,Lophotibis,cristata,Y,Toliara,-24,47.02,Lophotibis_cristata_FMNH345600_16S
+58,NA,431145,431145,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1705874,Rallidae,Mentocrex,beankaensis,Y,Toliara,NA,NA,Mentocrex_beankaensis_FMNH431145_16S
+60,NA,431139,431139,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1705868,Accipitiridae,Milvus,migrans,,Toliara,NA,NA,Milvus_migrans_FMNH431139_16S
+61,NA,429330,429330,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1704059,Muscicapidae,Monticola,imerinus,Y,Mahajanga,-18.68,44.72,Monticola_imerinus_FMNH429330_16S
+62,NA,MJR1263,MJR1263,UADBA,8/12/24,,Muscicapidae,Monticola,sharpei,Y,,-18.25,47.57,Monticola_sharpei_UADBAMJR1263_16S
+63,NA,431196,431196,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1705925,Motacillidae,Motacilla,flaviventris,Y,Toliara,-19.14,44.82,Motacilla_flaviventris_FMNH431196_16S
+64,NA,31203,MJR0610,UADBA,8/12/24,,Vangidae,Mystacornis,crossleyi,Y,,-23.74,47.02,Mystacornis_crossleyi_UADBAMJR0610_16S
+66,NA,MJR12,MJR12,UADBA,8/12/24,,Philepittidae,Neodrepanis,hypoxantha,Y,,-14.75,49.42,Neodrepanis_hypoxantha_UADBAMJR12_16S
+67,NA,FMNH435456,436456,FMNH,8/12/24,,Cisticolidae,Neomixis,striatigula,Y,,-22.77,43.52,Neomixis_striatigula_FMNH436456_16S
+68,NA,FMNH396128,396128,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1670977,Cisticolidae,Neomixis,tenella,Y,Fianarantsoa,-22.54,45.38,Neomixis_tenella_FMNH396128_16S
+69,NA,FMNH393344,393344,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668193,Cisticolidae,Neomixis,viridis,Y,Fianarantsoa,-22.16,47.04,Neomixis_viridis_FMNH393344_16S
+70,NA,TPG1583,393401,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668250,Acrocephalidae,Nesillas,typica,Y,Fianarantsoa,-22.15,47.02,Nesillas_typica_FMNH393401_16S
+71,NA,FMNH363856,363856,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1638671,Vangidae,Newtonia,amphichroa,Y,Fianarantsoa,-22,47.02,Newtonia_amphichroa_FMNH363856_16S
+72,NA,FMNH436447,436447,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711172,Vangidae,Newtonia,archboldi,Y,Toliara,-22.8,43.43,Newtonia_archboldi_FMNH436447_16S
+73,NA,FMNH436437,436437,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711162,Vangidae,Newtonia,brunneicauda,Y,Toliara,-22.77,43.52,Newtonia_brunneicauda_FMNH436437_16S
+74,NA,384667,384667,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659519,Numididae,Numida,meleagris,,Toliara,-22.68,44.82,Numida_meleagris_FMNH384667_16S
+75,NA,396238,396238,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1671087,Columbidae,Oena,capensis,N - SUBSPECIES ENDEMIC,Fianarantsoa,-22.54,45.38,Oena_capensis_FMNH396238_16S
+76,NA,FMNH356684,356684,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631502,Vangidae,Oriolia,bernieri,Y,Toamasina,-15,49.93,Oriolia_bernieri_FMNH356684_16S
+78,NA,FMNH396172,396172,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1671021,Bernieridae,Oxylabes,madagascariensis,Y,Antsiranana,-14,48.43,Oxylabes_madagascariensis_FMNH396172_16S
+79,NA,436517,436517,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711241,Hirundinidae,Phedina,borbonica,N - WEST INDIAN ISLANDS,Mahajanga,-16.43,45.4,Phedina_borbonica_FMNH436517_16S
+80,NA,MJR1233,MJR1233,UADBA,8/12/24,,Philepittidae,Philepitta,castanea,Y,,-15.56,50.28,Philepitta_castanea_UADBAMJR1233_16S
+81,NA,DW5317,431191,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1705920,Philepittidae,Philepitta,schlegeli,Y,Toliara,-19.13,44.8,Philepitta_schlegeli_FMNH431191_16S
+82,NA,SMG10756,396113,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1670962,Ploceidae,Ploceus,nelicourvi,Y,Antsiranana,-14,48.43,Ploceus_nelicourvi_FMNH396113_16S
+83,NA,SMG4123,352987,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1627804,Ploceidae,Ploceus,sakalava,Y,Toliara,-24,46.52,Ploceus_sakalava_FMNH352987_16S
+84,NA,FMNH356702,356702,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631520,Vangidae,Pseudobias,wardi,Y,Toamasina,-18.93,48.42,Pseudobias_wardi_FMNH356702_16S
+86,NA,FMNH479641,479641,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/2146933,Bernieridae,Randia,pseudozosterops,Y,Fianarantsoa,-21.24,47.4,Randia_pseudozosterops_FMNH479641_16S
+87,NA,384801,384801,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659653,Hirundinidae,Riparia,paludicola,,Fianarantsoa,-22.18,46.9,Riparia_paludicola_FMNH384801_16S
+89,NA,384729,384729,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659581,Rallidae,Sarothrura,insularis,Y,Antsiranana,-12.58,49.15,Sarothrura_insularis_FMNH384729_16S
+90,NA,TPG1582,393333,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668182,Muscicapidae,Saxicola,torquata,,Fianarantsoa,-22.15,47.02,Saxicola_torquata_FMNH393333_16S
+91,NA,FMNH436519,436519,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711243,Vangidae,Schetba,rufa,Y,Mahajanga,-16.43,45.4,Schetba_rufa_FMNH436519_16S
+93,NA,396065,396065,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1670914,Apodidae,Tachymarptis,melba,,Antananarivo,-18.17,47.28,Tachymarptis_melba_FMNH396065_16S
+94,NA,FMNH436460,436460,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711185,Monarchidae,Terpsiphone,mutata,N - WEST INDIAN ISLANDS,Toliara,-22.77,43.52,Terpsiphone_mutata_FMNH436460_16S
+95,NA,MJR0554,MJR0554,UADBA,8/12/24,,Bernieridae,Thamnornis,chloropetoides,Y,,-20.94,43.87,Thamnornis_chloropetoides_UADBAMJR0554_16S
+97,NA,436420,436420,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1711145,Turnicidae,Turnix,nigricollis,Y,Toliara,-22.77,43.52,Turnix_nigricollis_FMNH436420_16S
+100,NA,SMG4096,352820,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668182,Upupidae,Upupa,epops,N - SUBSPECIES ENDEMIC,Fianarantsoa,-22.15,47.02,Upupa_epops_FMNH352820_16S
+101,NA,FMNH434668,434668,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709393,Vangidae,Vanga,curvirostris,Y,Mahajanga,-16.3,46.82,Vanga_curvirostris_FMNH434668_16S
+102,NA,FMNH393162,393162,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668011,Bernieridae,Xanthomixis,apperti,Y,Toliara,-22.68,44.19,Xanthomixis_apperti_FMNH393162_16S
+103,NA,FMNH393287,393287,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668136,Bernieridae,Xanthomixis,cinereiceps,Y,Antsiranana,-14.54,49.43,Xanthomixis_cinereiceps_FMNH393287_16S
+104,NA,FMNH393278,393278,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1668127,Bernieridae,Xanthomixis,tenebrosa,Y,Antsiranana,-14.54,49.44,Xanthomixis_tenebrosa_FMNH393278_16S
+105,NA,FMNH384740,384740,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1659592,Bernieridae,Xanthomixis,zosterops,Y,Antsiranana,-14.43,49.75,Xanthomixis_zosterops_FMNH384740_16S
+106,NA,FMNH434675,434675,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1709400,Vangidae,Xenopirostris,polleni,Y,Fianarantsoa,-21.25,47.42,Xenopirostris_polleni_FMNH434675_16S
+107,NA,FMNH356665,356665,FMNH,8/12/24,https://collections-zoology.fieldmuseum.org/catalogue/1631483,Vangidae,Xenopirostris,xenopirostris,Y,Toliara,-23,43.62,Xenopirostris_xenopirostris_FMNH356665_16S
+108,NA,MJR1268,MJR1268,UADBA,8/12/24,,Zosteropidae,Zosterops,maderaspatanus,N - WEST INDIAN ISLANDS,,-18.25,47.57,Zosterops_maderaspatanus_UADBAMJR1268_16S
+109,DQ674596,NA_NA,NA,NA,NA,NA,Mesitornithidae,Mesitornis,unicolor,NA,NA,NA,NA,Mesitornis_unicolor_DQ674596_NA_NA_16S
+110,JQ239191,FMNH_356676,356676,FMNH,NA,NA,Vangidae,Artamella,viridis,NA,NA,NA,NA,Artamella_viridis_JQ239191_FMNH_356676_16S
+111,JQ239196,FMNH_346779,346779,FMNH,NA,NA,Corvidae,Oriolus,larvatus,NA,NA,NA,NA,Oriolus_larvatus_JQ239196_FMNH_346779_16S
+112,JQ239200,FMNH_356702,356702,FMNH,NA,NA,Platysteiridae,Pseudobias,wardi,NA,NA,NA,NA,Pseudobias_wardi_JQ239200_FMNH_356702_16S
+113,KF060349,FMNH_352844,352844,FMNH,NA,NA,Alaudidae,Eremopterix,hova,NA,NA,NA,NA,Eremopterix_hova_KF060349_FMNH_352844_16S
+115,KJ749825,MNZ_S38300,S38300,MNZ,NA,NA,Aepyornithidae,Mullerornis,agilis,NA,NA,NA,NA,Mullerornis_agilis_KJ749825_MNZ_S38300_16S
+116,KY412176,NA_NA,NA,NA,NA,NA,Aepyornithidae,Aepyornis,sp.,NA,NA,NA,NA,Aepyornis_sp._KY412176_NA_NA_16S
+117,MN196537,NA_NA,NA,NA,NA,NA,Threskiornithidae,Threskiornis,aethiopicus,NA,NA,NA,NA,Threskiornis_aethiopicus_MN196537_NA_NA_16S
+118,MW574377,FMNH_384730,384730,FMNH,NA,NA,Phasianidae,Margaroperdix,madagarensis,NA,NA,NA,NA,Margaroperdix_madagarensis_MW574377_FMNH_384730_16S
+122,OP413793,_AD2110,AD2110,,NA,NA,Aepyornithidae,Mullerornis,modestus,NA,NA,NA,NA,Mullerornis_modestus_OP413793__AD2110_16S
+124,OP413795,_AD276,AD276,,NA,NA,Aepyornithidae,Mullerornis,modestus,NA,NA,NA,NA,Mullerornis_modestus_OP413795__AD276_16S
+127,OP413798,_AD1293,AD1293,,NA,NA,Aepyornithidae,Aepyornis,sp.,NA,NA,NA,NA,Aepyornis_sp._OP413798__AD1293_16S
+134,OP413805,_AD1666,AD1666,,NA,NA,Aepyornithidae,Aepyornis,maximus,NA,NA,NA,NA,Aepyornis_maximus_OP413805__AD1666_16S
+136,OP413807,_AD1664,AD1664,,NA,NA,Aepyornithidae,Aepyornis,maximus,NA,NA,NA,NA,Aepyornis_maximus_OP413807__AD1664_16S
+138,OP413809,_AD1662,AD1662,,NA,NA,Aepyornithidae,Aepyornis,maximus,NA,NA,NA,NA,Aepyornis_maximus_OP413809__AD1662_16S
+139,OP413810,_AD2667,AD2667,,NA,NA,Aepyornithidae,Aepyornis,maximus,NA,NA,NA,NA,Aepyornis_maximus_OP413810__AD2667_16S

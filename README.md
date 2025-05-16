@@ -46,7 +46,7 @@ The paid version of [Geneious](https://www.geneious.com) can perform local or cu
 We plan to expand the database by adding endemic species not included in our initial version, as well as samples from multiple geographic locations for species already represented. In addition, we invite researchers working in Madagascar to submit their own data for inclusion to the database. While our goal is to establish a comprehensive database backed by vourchered museum specimens, we recognize the utility of sequence data from other sources (eDNA, iDNA, etc.). Please contact Dylan Maddox or Sushma Reddy for submission inquiries. 
 
 ## Citation
-If you use VoronaGasyCodes in your research, please cite our paper: Reddy et al.
+If you use VoronaGasyCodes in your research, please cite our paper that's currently in review: Reddy et al. VoronaGasyCodes: a public database of mitochondrial barcodes for Malagasy birds. https://www.authorea.com/doi/full/10.22541/au.174405288.86009465/v1
 
 ## Contact Information
 Please use our [GitHub issue tracker](https://github.com/jdylanmaddox/VoronaGasyCodes/issues) to provide feedback, ask questions, or report errors.
